@@ -120,8 +120,7 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
-      "value": "14863874
-"
+      "value": "14863874"
     },
     "SUDO_USERS": {
       "description": "Its Sudo Access To Give Bot Access To Ur Friend. To Know More About It do #sudo In Invisible LegendBot Group",
