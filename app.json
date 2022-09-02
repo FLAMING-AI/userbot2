@@ -139,8 +139,7 @@
       },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
-      "value": "3b5d73f27080334a1d730087b552519b
-"
+      "value": "3b5d73f27080334a1d730087b552519b"
     },
     "PLUGIN_CHANNEL": {
       "description": "Paste Group Id Which U Get From @missrose_bot",
@@ -166,8 +165,7 @@
     },
     "BOT_USERNAME": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and copy the username of your bot.",
-      "value": "@flaming_AI_bot
-"
+      "value": "@flaming_AI_bot"
     },
     "NO_OF_BUTTONS": {
       "description": " Set The Amount Of Buttons Displayed In legend Command default 7",
